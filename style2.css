@@ -17,7 +17,7 @@
   height: 200px;
   border-radius: 10px;
   border: 5px solid grey;
- background: url(img/ph1.jpg);
+ background: url(ph1.jpg);
  background-size: 100%;
  background-repeat: no-repeat;
 }
@@ -26,7 +26,7 @@
   height: 200px;
   border-radius: 10px;
   border: 5px solid grey;
-  background: url(img/ph2.jpg);
+  background: url(ph2.jpg);
  background-size: 100%;
  background-repeat: no-repeat;
 }
@@ -35,7 +35,7 @@
   height: 200px;
   border-radius: 10px;
   border: 5px solid grey;
-  background: url(img/ph3.jpg);
+  background: url(ph3.jpg);
  background-size: 100%;
  background-repeat: no-repeat;
 }
@@ -44,7 +44,7 @@
   height: 200px;
   border-radius: 10px;
   border: 5px solid grey;
-  background: url(img/ph4.jpg);
+  background: url(ph4.jpg);
  background-size: 100%;
  background-repeat: no-repeat;
 }
@@ -53,7 +53,7 @@
   height: 200px;
   border-radius: 10px;
   border: 5px solid grey;
-  background: url(img/ph6.jpg);
+  background: url(ph5.jpg);
  background-size: 100%;
  background-repeat: no-repeat;
 }
@@ -62,7 +62,7 @@
   height: 200px;
   border-radius: 10px;
   border: 5px solid grey;
-  background: url(img/ph6.jpg);
+  background: url(ph6.jpg);
  background-size: 100%;
  background-repeat: no-repeat;
 }
