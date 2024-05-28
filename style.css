@@ -55,7 +55,7 @@ img{
 }
 .div-photo{
     width: 250px;
-    height: 175px;
+    height: auto;
     border:3px solid rgb(205, 162, 215);
     padding: 5px;
 }
