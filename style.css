@@ -550,4 +550,16 @@ a{
     border-bottom: 3px double  rgb(221, 168, 235);
     margin-bottom: 50px;
 }
+@media(min-height:780px),(max-width:780px){
+    .div_url{
+        margin: 45px;
+        width: max-content;
+        height:min-content;
+        border-bottom: 3px double rgb(221, 168, 235);  
+    }
+    .div_url a{
+        margin: 7px;
+    }
+}
+
 
